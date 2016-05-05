@@ -2,3 +2,4 @@
 %project=shortbus-postgrest
 %uri=https://github.com/openawg/shortbus-postgrest
 
+appschema 2016-05-05T00:50:20Z Bobby Cox <bobby@cox.io> # Add schema for all shortbus objects
