@@ -2,4 +2,4 @@
 %project=shortbus-postgrest
 %uri=https://github.com/openawg/shortbus-postgrest
 
-appschema 2016-05-05T00:50:20Z Bobby Cox <bobby@cox.io> # Add schema for all shortbus objects
+data 2016-05-10T02:12:36Z Bobby Cox <bobby@cox.io> # Creates our data table
